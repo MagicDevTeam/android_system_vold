@@ -59,8 +59,7 @@ common_libraries := \
 	liblog \
 	libdiskconfig \
 	libext2_blkid \
-	liblogwrap \
-	libselinux
+	liblogwrap
 
 common_static_libraries := \
 	libfs_mgr \
